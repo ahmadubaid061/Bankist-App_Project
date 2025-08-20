@@ -37,10 +37,16 @@ This project simulates a digital banking experience with features like money tra
    Open index.html in your browser.
  2. Open index.html in your browser.
     
-👤 Author
+# 👤 Author
 
 Ubaid Ahmad
 
 GitHub: USERNAME
 
 ⭐ Don’t forget to star this repo if you found it useful!
+
+---
+
+👉 You just need to **replace `USERNAME` with your GitHub username**.  
+Do you want me to also include the **demo account usernames & PINs** in the README so people testing it can log in easily?
+
