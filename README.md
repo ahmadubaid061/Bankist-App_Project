@@ -6,7 +6,8 @@ This project simulates a digital banking experience with features like money tra
 ---
 
 ## 🚀 Live Demo
-👉 [View Bankist App on GitHub Pages](https://USERNAME.github.io/bankist-app/](https://ahmadubaid061.github.io/Bankist-App_Project/)
+👉 [View Bankist App on GitHub Pages](https://ahmadubaid061.github.io/Bankist-App_Project/)
+
 ## 📱 Note
 ⚠️ This project is **not mobile responsive**.  
 It is designed and optimized **only for desktop (PC) screens**.
