@@ -15,7 +15,7 @@ It is designed and optimized **only for desktop (PC) screens**.
 ## 🗂️ Development Journey
 This project was originally built step by step during my JavaScript learning journey.  
 You can check the **version-by-version progress** in my learning repository here:  
-👉 [Day 18 - Bankist App (js-intern repo)](https://github.com/ahmadubaid061/js-intern/tree/main/day%2018%20bankist%20app)
+👉 [Day 18 - Bankist App (js-intern repo)](https://github.com/ahmadubaid061/js-intern/tree/main/day 18 Bankest app)
 
 ---
 
