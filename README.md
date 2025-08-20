@@ -42,7 +42,8 @@ You can check the **version-by-version progress** in my learning repository here
 ## 📂 How to Run Locally
 1. Clone the repo:
    ```bash
-   git clone https://github.com/USERNAME/bankist-app.git
+   git clone https://github.com/USERNAME/Bankist-App_Project
+.git
 
    Open index.html in your browser.
  2. Open index.html in your browser.
