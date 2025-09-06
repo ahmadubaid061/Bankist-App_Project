@@ -3,7 +3,7 @@
 /////////////////////////////////////////////////
 /////////////////////////////////////////////////
 // BANKIST APP
-
+alert('there are four accounts availible\n username   pin\nua    1111\nma   2222\nhs 3333\nsk 4444');
 // Data
 const account1 = {
   owner: "Ubaid Ahmad",
@@ -425,3 +425,4 @@ btnClose.addEventListener("click", function (e) {
 const allBalance = accounts
   .flatMap((account) => account.movements)
   .reduce((acc, curr) => acc + curr, 0);
+
